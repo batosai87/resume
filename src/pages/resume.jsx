@@ -30,7 +30,7 @@ export default class Resume extends Component {
     return (
       <div>
         <Document
-          file="../resume.pdf"
+          file="../cveling.pdf"
           onLoadSuccess={this.onDocumentLoadSuccess}
         >
           <Page pageNumber={pageNumber} />

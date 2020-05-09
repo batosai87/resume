@@ -1,25 +1,25 @@
 module.exports = {
   pathPrefix: '',
   siteUrl: 'https://rolwinreevan.com',
-  siteTitle: 'Rolwin Reevan',
+  siteTitle: 'Eling Meyatmaja',
   siteDescription: 'Logbook of a software developer',
   author: 'Rolwin Reevan',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
   pages: {
     home: '/',
-    blog: 'blog',
+    exeperience: 'exeperience',
     contact: 'contact',
     resume: 'resume',
   },
   social: {
-    github: 'https://github.com/rolwin100',
-    facebook: 'https://www.facebook.com/rolwin.monteiro',
-    twitter: 'https://twitter.com/rolwin100',
-    instagram: 'https://www.instagram.com/reevan100/',
+    github: 'https://github.com/batosai87',
+    facebook: 'https://www.facebook.com/eling.meyatmaja',
+    twitter: 'https://twitter.com/ElingMeyatmaja',
+    instagram: 'https://www.instagram.com/elingmey/',
     rss: '/rss.xml',
   },
-  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
+  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/107d7e2b-90e6-42af-a9bd-ae7859b731f5',
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
   tags: {
     angular: {
