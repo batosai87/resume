@@ -1,6 +1,6 @@
 module.exports = {
   pathPrefix: '',
-  siteUrl: 'https://rolwinreevan.com',
+  siteUrl: 'https://elingmeyatmajaa.github.io',
   siteTitle: 'Eling Meyatmaja',
   siteDescription: 'Logbook of a software developer',
   author: 'Rolwin Reevan',
